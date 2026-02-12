@@ -10,7 +10,10 @@ DIAMOND III - 61 LP
 Wins: 13 | Losses: 15  
 Winrate: 46.43%  
 ===== FLEX =====  
-UNRANKED
+UNRANKED  
+===== LAST 20 GAMES =====  
+Wins: 8 | Losses: 12  
+Winrate: 40.0%
 
 ## Installation
 
